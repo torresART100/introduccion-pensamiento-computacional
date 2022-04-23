@@ -821,7 +821,14 @@ else:
     print(f'La raiz cuadrada de {objetivo} es {respuesta}')
 ```
 
-Puedes intentar ir moviendo la magnitud de epsilon para obtener una mejor precisión o mejorar el tiempo de ejecución.
+Puedes intentar ir moviendo la magnitud de epsilon para obtener una mejor precisión o mejorar el tiempo de ejecución. A continuación puedes ver una mejor explicación del aporte de un usuario en el curso:
+
+<br>
+<div align="center"> 
+  <img src="readme_img/aproximacion1.jpg" width="400">
+  <img src="readme_img/aproximacion2.jpg" width="400">
+</div>
+<br>
 
 ## Búsqueda Binaria
 
